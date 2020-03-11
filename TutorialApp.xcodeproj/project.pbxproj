@@ -54,7 +54,6 @@
 		81D976FE9895CC9BB617C3D3 /* LocalizedStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29D10C3BCCDD28D7805098BE /* LocalizedStrings.swift */; };
 		8C6A84D77B9B545EDF22571B /* PurchaseOrderHeaderDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF056D9FF918B8F3FE4CA856 /* PurchaseOrderHeaderDetailViewController.swift */; };
 		8D101BDF84CEB0C82D4D24F2 /* SupplierMasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09E82AEE26774CFD3EB3778C /* SupplierMasterViewController.swift */; };
-		915DAA6D23E44C130000EA22 /* (null) in Embed Frameworks */ = {isa = PBXBuildFile; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		91937982232F7A38001F9DAC /* SAPCommon.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9193797D232F7A38001F9DAC /* SAPCommon.xcframework */; };
 		91937983232F7A38001F9DAC /* SAPCommon.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9193797D232F7A38001F9DAC /* SAPCommon.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		91937984232F7A38001F9DAC /* SAPFioriFlows.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9193797E232F7A38001F9DAC /* SAPFioriFlows.xcframework */; };
@@ -110,7 +109,6 @@
 			files = (
 				91937987232F7A38001F9DAC /* SAPFiori.xcframework in Embed Frameworks */,
 				91937985232F7A38001F9DAC /* SAPFioriFlows.xcframework in Embed Frameworks */,
-				915DAA6D23E44C130000EA22 /* (null) in Embed Frameworks */,
 				9193798B232F7A39001F9DAC /* SAPOData.xcframework in Embed Frameworks */,
 				91937989232F7A39001F9DAC /* SAPFoundation.xcframework in Embed Frameworks */,
 				91937983232F7A38001F9DAC /* SAPCommon.xcframework in Embed Frameworks */,
